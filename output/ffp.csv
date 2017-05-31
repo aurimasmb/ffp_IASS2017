@@ -1,0 +1,7 @@
+.,FirstFit,.,FirstFitSortItemsDecreasingLength,.,FirstFitSortItemsDecreasingEffect,.,FirstFitSortItemsDecreasingLengthSortBinsIncreasingLength,.,FirstFitSortItemsDecreasingLengthSortBinsIncreasingResistance,.,FirstFitSortItemsDecreasingEffectSortBinsIncreasingLength,.,FirstFitSortItemsDecreasingEffectSortBinsIncreasingResistance,.,BestFitNoSortMinRemainingLength,.,BestFitNoSortMaxEffectOverResistance,.,BestFitSortItemsDecreasingLengthMinRemainingLength,.,BestFitSortItemsDecreasingLengthMaxEffectOverResistance,.,BestFitSortItemsDecreasingEffectMinRemainingLength,.,BestFitSortItemsDecreasingEffectMaxEffectOverResistance,.,
+.,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,Mean,SD,
+Time Elapsed,837,2480,966,2331,788,948,1257,1829,1311,1451,1088,430,1508,1820,1443,580,1384,398,1430,342,1426,309,2383,8838,1468,316,
+Number Of Bins Used,34,3,38,3.3,33,2.9,41,2.9,41,2.9,44,2.8,38,3,39,3.1,39,2.9,38,2.8,41,2.9,40,3.1,38,3,
+Number Of Items Not Fitted,7,2.9,6,2.9,6,2.6,7,3,5,2.7,4,2.6,7,2.7,6,2.9,6,2.7,7,3,5,2.7,4,2.6,7,2.7,
+Total Wasted Length,3.4,0.7,2.7,0.7,3.7,0.8,1.4,0.4,6.4,1.4,2.1,0.6,7.8,1.4,1.3,0.4,7.4,1.3,1,0.3,6.4,1.4,1.3,0.4,7.8,1.4,
+Total Remaining Length,30.5,3,29.5,3.1,30.2,2.9,30,2.9,28.5,3.1,28.7,3.2,31,2.9,29.6,3,30,3,30,2.9,28.5,3.1,28.7,3.1,31,2.9,
