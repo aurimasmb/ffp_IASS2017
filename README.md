@@ -1,6 +1,8 @@
 # ffp
 
-Code used for solutions to the Basic Form-Fitting Problem in "Form-Fitting for Diversity-Tolerant Design," Bukauskas et al 2017. 
+Code used for solutions to the Basic Form-Fitting Problem in:
+
+_Form-Fitting for Diversity-Tolerant Design, Bukauskas et al 2017._ 
 
 This is a console application. Open the solution in Visual Studio 2015 to execute. 
 
